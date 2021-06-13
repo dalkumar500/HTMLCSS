@@ -1,0 +1,42 @@
+/* rule-set#1:Everything within the body tag will have a blue background.*
+body{
+  background-color:blue;
+}
+
+/*rule-set #1*/
+#number-one{
+    color:red;
+} 
+
+}
+/*4*/
+.margins-padding{
+  border:2px solid blue;
+  margin-top: 50x;
+  margin-right:250x;
+  margin-left:200x;
+  padding:20px 20px 20px 40px;
+}
+
+dt{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+}
+/*this sets the background color of the entire body*/
+body{
+    background-color: lightgray;
+}
+
+}
+
+.wrapper{
+    margin: 5px;
+}
+
+/*
+Border shorthland looks like this:
+p{
+    border:5px solid red;
+}
